@@ -80,6 +80,7 @@
         <module>pulsar-plugin</module>
         <module>netty-socketio-plugin</module>
         <module>thrift-0.9.x-plugin</module>
+        <module>cxf-3.3.x-plugin</module>
     </modules>
     <packaging>pom</packaging>
 
